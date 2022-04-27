@@ -32,7 +32,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This project evaluates polynomial at compile-time with constexpr. The program is also tested with Google Test.
+This project evaluates polynomial at compile-time with `constexpr`. The program is also tested with Google Test.
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
